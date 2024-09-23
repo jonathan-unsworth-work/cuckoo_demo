@@ -1,0 +1,16 @@
+[modules.CuckooDemo]
+imports = ["Foundation"]
+testableImports = ["CuckooDemo"]
+sources = [
+    "./CuckooDemo/Feature/Data/Network/Services/DataService.swift",
+    "./CuckooDemo/Feature/Data/Network/Services/DataServiceImpl.swift",
+        "./CuckooDemo/Feature/Data/Repositories/DataRepositoryImpl.swift",
+]
+exclude = [
+    "ExcludedTestClass",
+    "ExcludedProtocol",
+]
+
+[modules.CuckooDemo.options]
+glob = true
+keepDocumentation = false
