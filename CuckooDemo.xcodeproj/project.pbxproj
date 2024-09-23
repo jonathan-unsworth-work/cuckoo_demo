@@ -51,6 +51,7 @@
 		AD24195B2CA04DBD00ADE24F /* DataRepositoryImplTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataRepositoryImplTests.swift; sourceTree = "<group>"; };
 		AD24195F2CA04E5A00ADE24F /* DataViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewModel.swift; sourceTree = "<group>"; };
 		AD2419622CA04E9500ADE24F /* DataViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewModelTests.swift; sourceTree = "<group>"; };
+		AD24196A2CA1A49900ADE24F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AD589DB42C98024E002198D8 /* CuckooDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CuckooDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD589DB72C98024E002198D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD589DB92C98024E002198D8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -130,6 +131,7 @@
 		AD589DAB2C98024E002198D8 = {
 			isa = PBXGroup;
 			children = (
+				AD24196A2CA1A49900ADE24F /* README.md */,
 				AD589DEC2C98035B002198D8 /* Cuckoofile.toml */,
 				AD589DB62C98024E002198D8 /* CuckooDemo */,
 				AD589DCD2C98024F002198D8 /* CuckooDemoTests */,
